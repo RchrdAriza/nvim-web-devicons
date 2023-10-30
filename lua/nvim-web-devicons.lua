@@ -212,6 +212,7 @@ local filetypes = {
   ["yaml"] = "yaml",
   ["zig"] = "zig",
   ["zsh"] = "zsh",
+  ["pug"] = "pug",
 }
 
 local default_icon = {

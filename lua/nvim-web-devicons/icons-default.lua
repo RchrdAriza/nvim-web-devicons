@@ -1840,6 +1840,13 @@ local icons_by_file_extension = {
     cterm_color = "62",
     name = "Wasm",
   },
+  ["pug"] = {
+    icon = "",
+    color = "#E5AA70",
+    cterm_color = "208",
+    name = "Pug",
+  },
+
 }
 
 return {
