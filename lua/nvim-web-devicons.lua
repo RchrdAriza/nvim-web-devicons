@@ -213,6 +213,8 @@ local filetypes = {
   ["zig"] = "zig",
   ["zsh"] = "zsh",
   ["pug"] = "pug",
+  ["njk"] = "njk",
+  ["zip"] = "zip",
 }
 
 local default_icon = {

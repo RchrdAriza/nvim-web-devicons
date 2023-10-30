@@ -17,13 +17,13 @@ Light and dark color variants are provided.
 ## Installation
 
 ```vim
-Plug 'nvim-tree/nvim-web-devicons'
+Plug 'RchrdAriza/nvim-web-devicons'
 ```
 
 or with [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
 ```
-use 'nvim-tree/nvim-web-devicons'
+use 'RchrdAriza/nvim-web-devicons'
 ```
 
 ## Usage
