@@ -215,6 +215,7 @@ local filetypes = {
   ["pug"] = "pug",
   ["njk"] = "njk",
   ["zip"] = "zip",
+  ["sh"] = "sh",
 }
 
 local default_icon = {

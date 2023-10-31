@@ -1858,11 +1858,11 @@ local icons_by_file_extension = {
     cterm_color = "61",
     name = "Zip",
   },
-  ["zh"] = {
+  ["sh"] = {
     icon = "",
     color = "#02A724",
     cterm_color = "34",
-    name = "Zh",
+    name = "Sh",
   },
 }
 
