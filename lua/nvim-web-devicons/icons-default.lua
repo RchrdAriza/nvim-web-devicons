@@ -264,12 +264,12 @@ local icons_by_filename = {
     name = "NodeModules",
   },
   ["package.json"] = {
-    icon = "",
-    color = "#e8274b",
+    icon = "",
+    color = "#00ff00",
     name = "PackageJson",
   },
   ["package-lock.json"] = {
-    icon = "",
+    icon = "",
     color = "#7a0d21",
     name = "PackageLockJson",
   },
@@ -942,7 +942,7 @@ local icons_by_file_extension = {
     name = "Jpg",
   },
   ["js"] = {
-    icon = "",
+    icon = "",
     color = "#cbcb41",
     cterm_color = "185",
     name = "Js",
@@ -1857,6 +1857,12 @@ local icons_by_file_extension = {
     color = "#5f5faf",
     cterm_color = "61",
     name = "Zip",
+  },
+  ["zh"] = {
+    icon = "",
+    color = "#02B126",
+    cterm_color = "40",
+    name = "Zh",
   },
 
 }
