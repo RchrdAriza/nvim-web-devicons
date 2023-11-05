@@ -216,6 +216,7 @@ local filetypes = {
   ["njk"] = "njk",
   ["zip"] = "zip",
   ["sh"] = "sh",
+  ["babelconfig"] = "js",
 }
 
 local default_icon = {

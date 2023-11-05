@@ -1649,7 +1649,7 @@ local icons_by_file_extension = {
     name = "TextResource",
   },
   ["ts"] = {
-    icon = "",
+    icon = "󰛦",
     color = "#519aba",
     cterm_color = "74",
     name = "Ts",
@@ -1863,6 +1863,17 @@ local icons_by_file_extension = {
     color = "#ffffff",
     cterm_color = "40",
     name = "Sh",
+  },
+  [""] = {
+    icon = "",
+    color = "#ffffff",
+    cterm_color = "40",
+    name = "Sh",
+  },
+  ["babel.config.js"] = {
+    icon = "",
+    color = "#F9DC3E",
+    name = "BabelConfigJs",
   },
 
 }
