@@ -1875,6 +1875,12 @@ local icons_by_file_extension = {
     color = "#F9DC3E",
     name = "BabelConfigJs",
   },
+  ["vue.config.js"] = {
+    icon = "",
+    color = "#8dc149",
+    cterm_color = "113",
+    name = "VueConfigJs",
+  },
 
 }
 

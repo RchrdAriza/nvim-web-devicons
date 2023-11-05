@@ -217,6 +217,7 @@ local filetypes = {
   ["zip"] = "zip",
   ["sh"] = "sh",
   ["babelconfig"] = "js",
+  ["vueconfig"] = "js",
 }
 
 local default_icon = {
