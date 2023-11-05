@@ -1860,7 +1860,7 @@ local icons_by_file_extension = {
   },
   ["sh"] = {
     icon = "",
-    color = "#02B126",
+    color = "#ffffff",
     cterm_color = "40",
     name = "Sh",
   },
