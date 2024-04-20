@@ -1881,6 +1881,18 @@ local icons_by_file_extension = {
     -- cterm_color = "113",
     name = "gradle",
   },
+  ["settings.gradle"] = {
+    icon = "",
+    color = "#209BC4",
+    -- cterm_color = "113",
+    name = "settings.gradle",
+  },
+  ["gradle.properties"] = {
+    icon = "",
+    color = "#209BC4",
+    -- cterm_color = "113",
+    name = "gradle.properties",
+  },
 }
 
 return {

@@ -215,9 +215,11 @@ local filetypes = {
   ["pug"] = "pug",
   ["njk"] = "njk",
   ["zip"] = "zip",
-  ["sh"] = "sh",
   ["babelconfig"] = "js",
   ["vueconfig"] = "js",
+  ["gradle"] = "gradle",
+  ["settings.gradle"] = "gradle",
+  ["gradle.properties"] = "gradle",
 }
 
 local default_icon = {
