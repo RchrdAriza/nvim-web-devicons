@@ -1852,17 +1852,17 @@ local icons_by_file_extension = {
     cterm_color = "70",
     name = "Njk",
   },
+  [""] = {
+    icon = "󱋬",
+    color = "#ffffff",
+    cterm_color = "40",
+    name = "Sh",
+  },
   ["zip"] = {
     icon = "",
     color = "#5f5faf",
     cterm_color = "61",
     name = "Zip",
-  },
-  ["sh"] = {
-    icon = "",
-    color = "#ffffff",
-    cterm_color = "34",
-    name = "Sh",
   },
   ["babel.config.js"] = {
     icon = "",
@@ -1874,6 +1874,12 @@ local icons_by_file_extension = {
     color = "#466024",
     cterm_color = "22",
     name = "VueConfigJs",
+  },
+  ["gradle"] = {
+    icon = "",
+    color = "#209BC4",
+    -- cterm_color = "113",
+    name = "gradle",
   },
 }
 

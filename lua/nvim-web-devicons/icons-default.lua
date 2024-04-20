@@ -1858,14 +1858,9 @@ local icons_by_file_extension = {
     cterm_color = "61",
     name = "Zip",
   },
-  ["sh"] = {
-    icon = "",
-    color = "#ffffff",
-    cterm_color = "40",
-    name = "Sh",
-  },
+
   [""] = {
-    icon = "",
+    icon = "󱋬",
     color = "#ffffff",
     cterm_color = "40",
     name = "Sh",
@@ -1881,7 +1876,12 @@ local icons_by_file_extension = {
     cterm_color = "113",
     name = "VueConfigJs",
   },
-
+  ["gradle"] = {
+    icon = "",
+    color = "#209BC4",
+    -- cterm_color = "113",
+    name = "gradle",
+  },
 }
 
 return {
